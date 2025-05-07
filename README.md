@@ -2,12 +2,12 @@
 
 🚀 I'm a passionate Fullstack Web & Mobile Developer with experience using React.js, Next.js, and React Native.
 
-- 🔭 Working on projects as a Frontend Web & Mobile Developer  
-- 🌱 Expanding backend skills using Express & PostgreSQL   
-- 💬 Ask me about frontend development and UI optimization  
-- 📫 Email: [firman670676@gmail.com](mailto:firman670676@gmail.com)  
-- 💼 Linkedin: [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)  
-- 🌐 Portofolio: [https://firman-diaz-sukmawan.vercel.app/](https://firman-diaz-sukmawan.vercel.app/) 
+🔭 Working on projects as a Frontend Web & Mobile Developer  
+🌱 Expanding backend skills using Express & PostgreSQL   
+💬 Ask me about frontend development and UI optimization  
+📫 Email: [firman670676@gmail.com](mailto:firman670676@gmail.com)  
+💼 Linkedin: [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)  
+🌐 Portofolio: [https://firman-diaz-sukmawan.vercel.app/](https://firman-diaz-sukmawan.vercel.app/) 
 
 ---
 
