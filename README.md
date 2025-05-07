@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Firman Diaz Sukmawan
+### Hello 👋, I'm Firman Diaz Sukmawan
 
 🚀 I'm a passionate Fullstack Web & Mobile Developer with experience using React.js, Next.js, and React Native.
 
