@@ -5,9 +5,9 @@ I'm a passionate Fullstack Web & Mobile Developer with experience using React.js
 - 🔭 Working on projects as a Frontend Web & Mobile Developer  
 - 🌱 Expanding backend skills using Express & PostgreSQL   
 - 💬 Ask me about frontend development and UI optimization  
--  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:firman670676@gmail.com) [firman670676@gmail.com](mailto:firman670676@gmail.com)  
--  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firman-diazsukmawan) [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)  
-- [![Portfolio](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://firman-diaz-sukmawan.vercel.app/) [https://firman-diaz-sukmawan.vercel.app/](https://firman-diaz-sukmawan.vercel.app/)
+- 📫 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [firman670676@gmail.com](mailto:firman670676@gmail.com)  
+- 💼 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)  
+- 🌐 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white) [https://firman-diaz-sukmawan.vercel.app/](https://firman-diaz-sukmawan.vercel.app/) 
 
 ---
 
