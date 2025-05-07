@@ -2,8 +2,8 @@
 
 I'm a passionate Fullstack Web & Mobile Developer with experience using React.js, Next.js, and React Native.
 
-- 🔭 I’m currently working on a mobile attendance app  
-- 🌱 Currently learning backend with Express & PostgreSQL  
+- 🔭 Working on projects as a Frontend Web & Mobile Developer  
+- 🌱 Expanding backend skills using Express & PostgreSQL   
 - 💬 Ask me about frontend development and UI optimization  
 - 📫 Reach me at: [firman670676@gmail.com](mailto:firman670676@gmail.com)  
 - 🔗 Connect on [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)
