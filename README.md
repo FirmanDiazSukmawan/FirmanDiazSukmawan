@@ -6,7 +6,7 @@ I'm a passionate Fullstack Web & Mobile Developer with experience using React.js
 - 🌱 Currently learning backend with Express & PostgreSQL  
 - 💬 Ask me about frontend development and UI optimization  
 - 📫 Reach me at: [firman670676@gmail.com](mailto:firman670676@gmail.com)  
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/firman-diazsukmawan)
+- 🔗 Connect on [Firman Diaz Sukmawan](https://www.linkedin.com/in/firman-diazsukmawan)
 
 ---
 
@@ -44,8 +44,3 @@ I'm a passionate Fullstack Web & Mobile Developer with experience using React.js
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios)
 ![OpenProject](https://img.shields.io/badge/OpenProject-2875C9?style=for-the-badge&logo=openproject)
 
----
-
-### 📈 GitHub Stats
-
-![Firman's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirmanDiazSukmawan&show_icons=true&theme=tokyonight)
